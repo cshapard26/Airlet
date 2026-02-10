@@ -1,0 +1,7 @@
+../Drivers/SSD1316/Src/ssd1316_adv_graphics.c:11:9:SSD1316_Continuous_Horizontal_Scroll_Setup	32	static
+../Drivers/SSD1316/Src/ssd1316_adv_graphics.c:19:9:SSD1316_Continuous_Horizontal_And_Vertical_Scroll_Setup	32	static
+../Drivers/SSD1316/Src/ssd1316_adv_graphics.c:26:9:SSD1316_Set_Scroll_Enable	24	static
+../Drivers/SSD1316/Src/ssd1316_adv_graphics.c:32:9:SSD1316_Set_Vertical_Scroll_Area	24	static
+../Drivers/SSD1316/Src/ssd1316_adv_graphics.c:39:9:SSD1316_Content_Scroll_Setup	32	static
+../Drivers/SSD1316/Src/ssd1316_adv_graphics.c:47:9:SSD1316_Set_Fade_and_Blink	24	static
+../Drivers/SSD1316/Src/ssd1316_adv_graphics.c:54:9:SSD1316_Set_Zoom_Mode	24	static

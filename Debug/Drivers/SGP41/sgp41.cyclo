@@ -1,0 +1,6 @@
+../Drivers/SGP41/sgp41.c:12:6:SGP41_Set_I2C	1
+../Drivers/SGP41/sgp41.c:16:9:SGP41_CalcCrc	4
+../Drivers/SGP41/sgp41.c:32:9:SGP41_Execute_Conditioning	1
+../Drivers/SGP41/sgp41.c:38:9:SGP41_Request_Raw_Data	3
+../Drivers/SGP41/sgp41.c:52:9:SGP41_Read_Data	1
+../Drivers/SGP41/sgp41.c:63:9:SGP41_Activate_Sleep_Mode	1

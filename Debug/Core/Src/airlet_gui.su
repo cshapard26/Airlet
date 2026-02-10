@@ -1,0 +1,16 @@
+../Core/Src/airlet_gui.c:40:13:u16_to_str	32	static
+../Core/Src/airlet_gui.c:73:9:Get_Setting_Value	16	static
+../Core/Src/airlet_gui.c:95:6:Update_Settings	16	static
+../Core/Src/airlet_gui.c:155:16:Get_Screen_State	4	static
+../Core/Src/airlet_gui.c:159:17:Change_State	32	static
+../Core/Src/airlet_gui.c:172:17:Display_Sensor_Value	40	static
+../Core/Src/airlet_gui.c:230:16:normalize_reading	24	static
+../Core/Src/airlet_gui.c:239:17:Display_Sensor_Graph	32	static
+../Core/Src/airlet_gui.c:311:17:Display_Home_Page	40	static
+../Core/Src/airlet_gui.c:350:17:Display_Charge_Page	48	static
+../Core/Src/airlet_gui.c:362:17:Display_Calibration_Page	16	static
+../Core/Src/airlet_gui.c:388:17:Display_Settings_Page	24	static
+../Core/Src/airlet_gui.c:409:17:Display_Transistion	16	static
+../Core/Src/airlet_gui.c:415:17:Display_Off	8	static
+../Core/Src/airlet_gui.c:422:17:Update_Display	208	static
+../Core/Src/airlet_gui.c:576:17:Check_Button_Navigation	24	static

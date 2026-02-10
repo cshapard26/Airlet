@@ -1,0 +1,5 @@
+../Drivers/OPT3002/opt3002.c:12:6:OPT3002_Set_I2C	1
+../Drivers/OPT3002/opt3002.c:17:9:OPT3002_Request_Sensor_Reading	1
+../Drivers/OPT3002/opt3002.c:26:10:OPT3002_Get_Sensor_Reading	1
+../Drivers/OPT3002/opt3002.c:36:10:OPT3002_Irradiance_To_Lux	1
+../Drivers/OPT3002/opt3002.c:42:9:OPT3002_Set_Config_Register	1

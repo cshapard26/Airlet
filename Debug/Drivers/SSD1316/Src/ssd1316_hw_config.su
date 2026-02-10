@@ -1,0 +1,8 @@
+../Drivers/SSD1316/Src/ssd1316_hw_config.c:10:9:SSD1316_Set_Display_Start_Line	24	static
+../Drivers/SSD1316/Src/ssd1316_hw_config.c:16:9:SSD1316_Set_Multiplex_Ratio	24	static
+../Drivers/SSD1316/Src/ssd1316_hw_config.c:23:9:SSD1316_Set_COM_Scan_Direction	24	static
+../Drivers/SSD1316/Src/ssd1316_hw_config.c:29:9:SSD1316_Set_Display_Offset	24	static
+../Drivers/SSD1316/Src/ssd1316_hw_config.c:36:9:SSD1316_Set_SEG_Pin_Config	24	static
+../Drivers/SSD1316/Src/ssd1316_hw_config.c:44:9:SSD1316_Set_Clock_Frequency	24	static
+../Drivers/SSD1316/Src/ssd1316_hw_config.c:51:9:SSD1316_Set_Pre_Charge_Period	24	static
+../Drivers/SSD1316/Src/ssd1316_hw_config.c:58:9:SSD1316_Set_VCOMH_Level	24	static

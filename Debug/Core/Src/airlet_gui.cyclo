@@ -1,0 +1,16 @@
+../Core/Src/airlet_gui.c:40:13:u16_to_str	3
+../Core/Src/airlet_gui.c:73:9:Get_Setting_Value	8
+../Core/Src/airlet_gui.c:95:6:Update_Settings	24
+../Core/Src/airlet_gui.c:155:16:Get_Screen_State	1
+../Core/Src/airlet_gui.c:159:17:Change_State	6
+../Core/Src/airlet_gui.c:172:17:Display_Sensor_Value	10
+../Core/Src/airlet_gui.c:230:16:normalize_reading	1
+../Core/Src/airlet_gui.c:239:17:Display_Sensor_Graph	2
+../Core/Src/airlet_gui.c:311:17:Display_Home_Page	7
+../Core/Src/airlet_gui.c:350:17:Display_Charge_Page	1
+../Core/Src/airlet_gui.c:362:17:Display_Calibration_Page	3
+../Core/Src/airlet_gui.c:388:17:Display_Settings_Page	3
+../Core/Src/airlet_gui.c:409:17:Display_Transistion	1
+../Core/Src/airlet_gui.c:415:17:Display_Off	1
+../Core/Src/airlet_gui.c:422:17:Update_Display	28
+../Core/Src/airlet_gui.c:576:17:Check_Button_Navigation	63

@@ -1,0 +1,7 @@
+../Drivers/SSD1316/Src/ssd1316_drawing.c:11:9:SSD1316_Draw_Point	24	static
+../Drivers/SSD1316/Src/ssd1316_drawing.c:21:9:SSD1316_Draw_Line	48	static
+../Drivers/SSD1316/Src/ssd1316_drawing.c:86:9:SSD1316_Draw_X_Gon	24	static
+../Drivers/SSD1316/Src/ssd1316_drawing.c:96:9:SSD1316_Draw_Rectangle	16	static
+../Drivers/SSD1316/Src/ssd1316_drawing.c:101:9:SSD1316_Draw_Filled_Rectangle	32	static
+../Drivers/SSD1316/Src/ssd1316_drawing.c:128:9:SSD1316_Draw_Triangle	16	static
+../Drivers/SSD1316/Src/ssd1316_drawing.c:132:9:SSD1316_Draw_Circle	24	static

@@ -1,0 +1,5 @@
+../Drivers/STCC4/stcc4.c:14:6:STCC4_Set_I2C	8	static
+../Drivers/STCC4/stcc4.c:19:9:STCC4_Request_Measurement	24	static
+../Drivers/STCC4/stcc4.c:25:9:STCC4_Read_Measurement	48	static
+../Drivers/STCC4/stcc4.c:42:9:STCC4_Set_Enabled	32	static
+../Drivers/STCC4/stcc4.c:53:9:STCC4_Perform_Conditioning	24	static

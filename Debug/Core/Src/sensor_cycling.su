@@ -1,0 +1,6 @@
+../Core/Src/sensor_cycling.c:48:6:Set_ADC_And_Gas_Params	24	static
+../Core/Src/sensor_cycling.c:55:10:int_sqrt	24	static
+../Core/Src/sensor_cycling.c:85:10:Refresh_Sensor_Readings	48	static
+../Core/Src/sensor_cycling.c:227:6:Set_Sensor_States	16	static
+../Core/Src/sensor_cycling.c:235:6:Set_Cycling_Enabled	16	static
+../Core/Src/sensor_cycling.c:239:23:Get_Sensor_History	4	static
